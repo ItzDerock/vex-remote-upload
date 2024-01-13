@@ -1,0 +1,8 @@
+debug/
+target/
+
+# rustfmt's garbage
+**/*.rs.bk
+
+# windows MSVC specific
+*.pdb
